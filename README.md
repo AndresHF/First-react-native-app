@@ -1,5 +1,5 @@
 <h1 margin="0 auto">Getting started with react-native</h1>
-<img src="" />
+<img src="https://github.com/AndresHF/First-react-native-app/blob/master/assets/icon.png?raw=true" />
 
 <h2>Welcome</h2>
 <h3>This app was made to learn and practice react-native</h3>
