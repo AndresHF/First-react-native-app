@@ -1,4 +1,5 @@
-<h1 margin="0 auto">Getting started with react-native<img src="https://github.com/AndresHF/First-react-native-app/blob/master/assets/icon.png?raw=true" style="float:left"/></h1>
+<h1 margin="0 auto">Getting started with react-native</h1>
+<h1><img src="https://github.com/AndresHF/First-react-native-app/blob/master/assets/icon.png?raw=true" style="float:left"/><img src="https://github.com/AndresHF/First-react-native-app/blob/master/assets/screenshot.png?raw=true" width="250px" height="450px"/></h1>
 <h2>Welcome</h2>
 <h3>This app was made to learn and practice react-native</h3>
 This app is just a base ( 2-16 ) to base ( 2-16 ) converter. I know there is thousands of apps like this, but I just wanted to try this using react native.
@@ -14,6 +15,6 @@ To run in your mobile, please visit https://expo.io/@jaguars/base-converter .
 </ul>
 
 
-<img src="https://github.com/AndresHF/First-react-native-app/blob/master/assets/screenshot.png?raw=true" width="250px" height="450px"/>
+
 
 
