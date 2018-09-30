@@ -5,7 +5,7 @@
 
 This app is just a base ( 2-16 ) to base ( 2-16 ) converter. I know there is thousands of apps like this, but I just wanted to try this using react native.
 
-To check the app on your mobile, you need to have an Expo.io account and the Expo for android app installed.
+To check the app on your mobile, you need to have an expo.io account and the "expo for android" app installed.
 To run in your mobile, please visit https://expo.io/@jaguars/base-converter .
 
 <h2>What are you going to find here?</h2>
